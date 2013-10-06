@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1. SCRIPTS\Scene_settings.js">
+    <Files>
+      <File FileName="Assets\1. SCRIPTS\StartPoint.js" Line="11" Column="27" />
+      <File FileName="Assets\1. SCRIPTS\Collisions.js" Line="4" Column="25" />
+      <File FileName="Assets\1. SCRIPTS\Controller_Indicator.js" Line="13" Column="23" />
+      <File FileName="Assets\1. SCRIPTS\Force_Movement.js" Line="28" Column="4" />
+      <File FileName="Assets\1. SCRIPTS\KeyboardController1.js" Line="29" Column="41" />
+      <File FileName="Assets\1. SCRIPTS\Unit_monitor.js" Line="18" Column="1" />
+      <File FileName="Assets\1. SCRIPTS\JoystickController1.js" Line="28" Column="79" />
+      <File FileName="Assets\1. SCRIPTS\Power_bar.js" Line="319" Column="41" />
+      <File FileName="Assets\1. SCRIPTS\JoystickController2.js" Line="28" Column="79" />
+      <File FileName="Assets\1. SCRIPTS\JoystickController3.js" Line="28" Column="79" />
+      <File FileName="Assets\1. SCRIPTS\Scene_settings.js" Line="11" Column="16" />
+      <File FileName="Assets\1. SCRIPTS\JoystickController4.js" Line="28" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

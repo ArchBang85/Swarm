@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bb7b0528f96169149aac29ac1d3bbff8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathsound: {fileID: 8300000, guid: 9f9db2b86d71907478931e6a2ed5b0ec, type: 3}
+  - GUI_fetch: {instanceID: 0}
+  - controller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
